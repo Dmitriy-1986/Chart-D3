@@ -1,0 +1,22 @@
+body{
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background: #232e42;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+svg{
+  background: #2f3b51;
+}
+
+line, path{
+  stroke: #232e42;
+}
+text{
+  fill:#657d95;
+}
